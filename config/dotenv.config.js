@@ -1,0 +1,10 @@
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=password
+DB_NAME=bank_api_db
+API_KEY=your_apilayer_api_key
+EMAIL_HOST=smtp.your-email-provider.com
+EMAIL_PORT=587
+EMAIL_USER=your-email@example.com
+EMAIL_PASS=your-email-password
+JWT_SECRET=your_jwt_secret_key
